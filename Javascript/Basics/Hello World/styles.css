@@ -1,0 +1,29 @@
+.px_length{
+    width:200px;
+    background-color: yellow;
+    border : 2px solid red;
+    color: black;
+}
+
+.em_length{
+    min-width: 1em;
+    max-width:10em;
+    background-color : yellowgreen;
+    color: blue;
+    border : 1px solid black;
+}
+
+.parent-percent{
+    background-color:springgreen;
+    color:rgb(189, 36, 36);
+    border : 1px solid red;
+    width:200px;
+}
+
+.child-percent{
+    box-sizing:border-box;
+    width:80%;
+    border :5px solid blue;
+    color:white;
+    background-color: red;;
+}
