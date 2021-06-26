@@ -1,0 +1,12 @@
+{
+  "name": "my-react-redux",
+  "displayName": "my-react-redux",
+  "expo": {
+    "name": "my-react-redux",
+    "slug": "my-react-redux",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
